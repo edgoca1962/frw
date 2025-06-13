@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * 
+ * Ambiente de pruebas
+ * 
+ */

@@ -1,0 +1,1 @@
+<small>Post footer</small>
